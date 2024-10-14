@@ -1,6 +1,3 @@
-# gnikarp
-Global Parking Solutions  
-
 
 # <center>Implementing Blockchain to Obtain Parking Rights in the United States</center>
 
@@ -107,6 +104,12 @@ By shifting the power to the people through decentralized models, we can bypass 
 
 Decentralization isn’t just about technology—it’s about shifting the control of critical resources from the few to the many. In doing so, we can **dismantle the inefficiencies of local government** and foster a future where communities actively shape the infrastructure they depend on, with real ownership and participation in the process. This new ecosystem, rooted in digital innovation and decentralized power, is the key to creating equitable, resilient, and user-driven urban landscapes.
 
+<span style="color:pink;">Find me on..</span>
+
+[Github](https://github.com/JesuscoinsIII) 
+
+[Green Pill Network](https://discord.gg/AFuqKcVv) @Jesuscoins
+
 
 ---
 
@@ -119,4 +122,3 @@ Decentralization isn’t just about technology—it’s about shifting the contr
 [LandDao](https://medium.com/landdao/the-problem-were-solving-why-land-tokenization-matters-c19a6aed2e43)
 
 [Stadium Parking](https://www.stadiumparking.org)
-
