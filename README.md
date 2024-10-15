@@ -78,7 +78,84 @@ You'll need a way to trigger actions based on a user’s physical location to in
 
 - **GPS-Based Location Services**: The app should use GPS to recognize when a user is at a designated parking location, making it eligible to "collect" the NFT. This can be handled through native APIs on mobile devices or with a service like **Mapbox** or **Google Maps API**.
 - **Geofencing**: You can implement geofencing logic that triggers smart contract execution when the user is within a specific range of the parking spot.
+## Parking Coordinates
 
+Here is a list of coordinates (latitude and longitude) for the main parking lots at AT&T Stadium in Arlington, Texas, which you can use in your parking smart contract. These locations represent the various official parking lots surrounding the stadium:
+
+The contract manages parking spot availability at AT&T Stadium using predefined GPS coordinates for each lot. These coordinates are integrated into the logic of the smart contract for minting and managing parking spots.
+
+
+1.  **Lot 1**:
+    Latitude: `32.750918`
+    Longitude: `-97.094208`
+    
+2.  **Lot 2**:
+    Latitude: `32.750212`
+    Longitude: `-97.093045`
+    
+3.  **Lot 3**:
+    Latitude: `32.749113`
+    Longitude: `-97.090895`
+    
+4.  **Lot 4**:
+    Latitude: `32.746845`
+    Longitude: `-97.090557`
+    
+5.  **Lot 5**:
+    Latitude: `32.744915`
+    Longitude: `-97.088478`
+    
+6.  **Lot 6**:
+    Latitude: `32.742848`
+    Longitude: `-97.087155`
+    
+7.  **Lot 7**:
+    Latitude: `32.741282`
+    Longitude: `-97.088758`
+    
+8.  **Lot 8**:
+    Latitude: `32.739880`
+    Longitude: `-97.090017`
+    
+9.  **Lot 9**:
+    Latitude: `32.742347`
+    Longitude: `-97.092215`
+    
+10.  **Lot 10**:
+    Latitude: `32.744461`
+    Longitude: `-97.095228`
+    
+11.  **Lot 11**: 
+    Latitude: `32.746200`
+    Longitude: `-97.097349`
+    
+12.  **Lot 12**:
+    Latitude: `32.748830`
+    Longitude: `-97.098404`
+    
+13.  **Lot 13**:
+    Latitude: `32.751300`
+    Longitude: `-97.100100`
+    
+14.  **Lot 14**:
+    Latitude: `32.753460`
+    Longitude: `-97.101756`
+    
+15.  **Lot 15**:
+    Latitude: `32.750056`
+    Longitude: `-97.104130`
+    
+16.  **Lot 16**:
+    Latitude: `32.747911`
+    Longitude: `-97.105976`
+    
+17.  **Lot 17**:
+    Latitude: `32.745649`
+    Longitude: `-97.107576`
+    
+18.  **Lot 18**:
+    Latitude: `32.743775`
+    Longitude: `-97.106316`
 ### 5. <span style="color:purple;">**Backend for Managing Data**</span>
 
 To manage and sync parking spots, user activity, and blockchain interactions, you’ll need a backend that integrates with your smart contracts.
